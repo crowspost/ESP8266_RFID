@@ -20,7 +20,7 @@
   
 */
 
-/*  Edits made to account for changes in SoftwareSerial.
+/*  Edits made to account for changes in SoftwareSerial. */
 
 // include the SoftwareSerial library so we can use it to talk to the RFID Reader
 #include <SoftwareSerial.h>
